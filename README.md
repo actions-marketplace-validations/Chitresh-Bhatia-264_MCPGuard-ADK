@@ -13,6 +13,8 @@ Engineered on **Google Agent Development Kit (ADK) 2.0**, **Agent2Agent (A2A) Pr
 ![Google ADK: v2.0](https://img.shields.io/badge/Google_ADK-v2.0-4285F4.svg)
 ![A2A Protocol: v1.0 Ed25519](https://img.shields.io/badge/A2A_Protocol-v1.0_Ed25519-EA4335.svg)
 ![OpenTelemetry: OTLP v1/traces](https://img.shields.io/badge/OpenTelemetry-OTLP_v1%2Ftraces-34A853.svg)
+[![M8ven Score](https://m8ven.ai/badge/mcp/chitresh-bhatia-264-mcpguard-adk-hg6iv3?v=812dd7a01b9b7882022f9f875c9c49b0)](https://m8ven.ai/mcp/chitresh-bhatia-264-mcpguard-adk-hg6iv3?s=readme)
+
 
 [Quickstart](#-30-second-quickstart) •
 [Architecture](#-architecture-6-stage-google-adk-20-hybrid-graph) •
@@ -21,6 +23,8 @@ Engineered on **Google Agent Development Kit (ADK) 2.0**, **Agent2Agent (A2A) Pr
 [10-Repo Benchmark](#-empirical-benchmark-10-public-repos-vs-gitleaks) •
 [GitHub PR Bot](#-1-click-github-pull-request-bot) •
 [MCP & A2A](#-ide-mcp-server--a2a-protocol-v10)
+
+
 
 <img width="100%" alt="MCPGuard-ADK TrueColor Terminal Banner" src="https://github.com/user-attachments/assets/a4a1a686-225c-49a9-8d8e-cb2633d88409" />
 
